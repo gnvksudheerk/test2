@@ -14,7 +14,7 @@ pipeline {
                 nexusArtifactUploader artifacts: [[
                 artifactId: 'test2',
                 classifier: '',
-                file: 'target/test2-1.0.0.jar',
+                file: 'target/test2-1.0.1.jar',
                 type: 'jar']],
                 credentialsId: 'nexus3',
                 groupId: 'org.example',
