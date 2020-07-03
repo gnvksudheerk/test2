@@ -6,7 +6,5 @@
 
     <groupId>org.example</groupId>
     <artifactId>test2</artifactId>
-    <version>1.0.4-SNAPSHOT</version>
-
-
+    <version>1.0.5</version>
 </project>
