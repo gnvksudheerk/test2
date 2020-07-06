@@ -21,7 +21,7 @@ pipeline {
                     type: 'jar']],
                     credentialsId: 'nexus3',
                     groupId: 'org.example',
-                    nexusUrl: '18.130.9.16:8081',
+                    nexusUrl: '172.31.0.123:8081',
                     nexusVersion: 'nexus3',
                     protocol: 'http',
                     repository: nexusRepoName,
